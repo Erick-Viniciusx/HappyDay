@@ -61,39 +61,7 @@ Provide a SaaS platform that automates and customizes birthday celebrations, pro
 - **Email Marketing:** Mailchimp, Sendinblue  
 - **Chatbots:** Customer service automation
 
----
 
-## 💰 Monetization Model
-
-- **Free Plan:** Basic features with watermark  
-- **Premium Plans:**
-  - Unlimited art generation
-  - Premium AI messages
-  - WhatsApp Business API integration
-  - Advanced reporting and segmentation
-
----
-
-## 🧠 Competitive Advantages
-
-- AI-generated unique messages and personalized designs
-- Fully automated sending, no manual effort required
-- Plug-and-play solution for small and medium-sized businesses
-- Brand strengthening through humanized communication
-
----
-
-## 🚀 Tech Stack
-
-- Django & Django REST Framework  
-- PostgreSQL  
-- Celery + Redis (task scheduling)  
-- OpenAI API (text generation)  
-- Pillow / ReportLab (image generation)  
-- WhatsApp Business API  
-- Docker (containerized environment)
-
----
 
 ## 🛠️ Running Locally
 
